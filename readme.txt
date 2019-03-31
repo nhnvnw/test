@@ -4,4 +4,4 @@ Hello
 Hi
 dev & mas:hello
 dev: hi
-mas: yes
+mas & dev: yes
